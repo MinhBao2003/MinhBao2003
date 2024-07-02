@@ -2,17 +2,18 @@
 
 👋 Hi, I’m @MinhBao2003
 
-👀 I’m interested in ...
+👀 I’m interested in web development, especially building dynamic and responsive applications using modern frameworks like Angular and React.
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning more about backend development with Node.js and Express, as well as diving into cloud computing and deploying applications on platforms like AWS and Azure.
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on open-source projects that aim to solve real-world problems or create innovative tools for developers. I’m also interested in contributing to projects that focus on education and technology accessibility.
 
-📫 How to reach me ...
+📫 How to reach me: You can reach me via email at vinhbaominh04102003@gmail.com.
 
-😄 Pronouns: ...
+😄 Pronouns: He/Him
 
-⚡ Fun fact: ...
+⚡ Fun fact: I also enjoy exploring new tech gadgets and trends!
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MinhVinh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhvinhx3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/MinhVinh) 
